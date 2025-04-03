@@ -1,0 +1,10 @@
+## Interface: 110100
+## Title: CalicoPlates
+## Notes: Calico Nameplate Manager
+# SavedVariables: cali
+# Version: 1.0
+# Author: CrimsonVoid
+
+libs.lua
+events.lua
+calico_plates.lua
